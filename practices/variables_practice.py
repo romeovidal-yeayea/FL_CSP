@@ -10,6 +10,7 @@ year = "2025"
 eye = "brown"
 age = "14"
 subject = "science"
+200 = "300"
 
 
 print(name)
@@ -23,3 +24,4 @@ print(eye)
 print(age)
 print(subject)
 
+print(200)
