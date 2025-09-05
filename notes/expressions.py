@@ -2,6 +2,7 @@
 # intergers = whole numbers
 #flouts = numbers with decimal
 # What is an algorithm 
+# assignmment operator is the equal sign (=)
     #just a set of instrucrtiobs to complete a task
 name = input("What is your name\n")
 print("Hello", name)
@@ -26,14 +27,32 @@ total_ages = age_1 + age_2 + age_3 + age_4
 average = total_ages/4
 print("The average age is", average)
 
-# List ALL of the different mathematical operators (Give me the symbol and tell me what it does)
-num_1 = 12
-num_2 = 7
 
-print("Addition(+): ", num_1+num_2)
-print("subtraction(-): ", num_1-num_2)
-print("multiplication(*): ", num_1*num_2)
-print("division(/): ", num_1/num_2)
-print("exponents(**): ", num_1**num_2)
-print("integer division(//): ", num_1//num_2)
-print("modulo(%): ", num_1%num_2)
+
+# List ALL of the different mathematical operators (Give me the symbol and tell me what it does)
+num1 = int(input("tell me what to do (number):"))
+num2 = float(input("one more:\n"))
+
+print("Addition(+): ", num_1)
+print("subtraction(-): ", num_1)
+print("multiplication(*): ", num_1)
+print("division(/): ", round(num_1, 2)) # round(number to round, number of decimal places)
+print("exponents(**): ", num_1)
+print("integer division(//): ", num_1)
+print("modulo(%): ", num_1)
+
+
+print("Addition(+): ", num_1)
+num_1 += num_2
+print("subtraction(-): ", num_1)
+num_1 -= num_2
+print("multiplication(*): ", num_1)
+num_1 *= num_2
+print("division(/): ", round(num_1, 2)) # round(number to round, number of decimal places)
+num_1 /= num_2
+print("exponents(**): ", num_1)
+num_1 **= num_2
+print("integer division(//): ", num_1)
+num_1 //= num_2
+print("modulo(%): ", num_1)
+num_1 %= num_2
