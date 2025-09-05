@@ -25,3 +25,4 @@ print(age)
 print(subject)
 
 print(200)
+print(100)
