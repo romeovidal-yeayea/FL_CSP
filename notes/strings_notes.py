@@ -14,3 +14,4 @@ print(sentence.strip())
 
 print("Welcome to my program", full_name + "!")
 #2. Why do we have strings?fer
+ yo
