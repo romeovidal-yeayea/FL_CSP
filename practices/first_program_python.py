@@ -5,7 +5,7 @@ height = 5.9 # float
 name = "Alex" # string
 its_student = True # boolean
 
-# Print them on console
+# Print them on consolee
 print("Age:", age)
 print("Height:", height)
 print("Name", name)
@@ -26,4 +26,4 @@ print("Your favorite number is", fav_number)
 age = int(input("Enter your:"))
 is_adult = age >= 18
 
-print ("Are you an adult?", is_adult)
+print ("Are you an adult?", is_adult) 
