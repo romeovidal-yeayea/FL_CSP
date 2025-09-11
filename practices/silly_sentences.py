@@ -22,21 +22,19 @@ sport = input("Tell me another vehicle: ")
 
 vehicle = input("Tell me a vehicle: ")
 
-animals2 = input("Tell me animals: ")
+animal2 = input("Tell me another animal: ")
 
 car = input("Tell me a car: ")
 
-print("If I could design my own world, everything would be", color, "and ruled by", superhero + ".",
+print("My favorite color is", color, "because", superhero, "uses it, he", verb, "when he's happy.",
 
-      "Everyone would live in", place, "and eat nothing but", food, "with", drink, "to drink.",
+      "Most common pet is", animal, "and there's only", num1, "in the world.",
 
-      "Instead of working, people would", verb, "with their pet", animal, "all day.",
+      "normally I have around", num2 + "dollars on my bank account.",
 
-      "Money would be replaced with", object1 + ".",
+      "I would love to meet", celebrity, "because i would like to play", sport, "with him.",
 
-      "Every person would get", number1, "vacations a year and sleep", number2, "hours a night.",
+      "i like driving", vehicle, "because", animal2 + "drives them,",
 
-      "For entertainment, we’d watch", celebrity, "play", sport + ",",
-
-      "and travel everywhere in flying", vehicle + ".")
+      "and travel everywhere in a", car + ".")
 
