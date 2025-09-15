@@ -1,4 +1,4 @@
-# RV 7th silly_sentences
+# RV 7th silly_sentencess
 
 color = input("Tell me a color: ")
 

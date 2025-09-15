@@ -1,4 +1,4 @@
-# RV 7th name decorator
+# RV 7th name decoratorr
 
 name = input("hi, what's your name?")
 
