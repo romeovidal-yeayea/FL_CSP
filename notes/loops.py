@@ -57,5 +57,5 @@ while True:
 #one loop of the same code
 #1how many times loops has run
 #2.set stopping poimt
-#3.increase iterator
+#3.increase iteratorh
 
