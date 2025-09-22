@@ -30,8 +30,8 @@ print("The average age is", average)
 
 
 # List ALL of the different mathematical operators (Give me the symbol and tell me what it does)
-num1 = int(input("tell me what to do (number):"))
-num2 = float(input("one more:\n"))
+num_1 = int(input("tell me what to do (number):"))
+num_2 = float(input("one more:\n"))
 
 print("Addition(+): ", num_1)
 print("subtraction(-): ", num_1)
