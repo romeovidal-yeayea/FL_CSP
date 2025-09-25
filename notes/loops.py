@@ -1,10 +1,18 @@
 #RV 7th loops notes
 
 foods = ["chocolate", "pasta", "brownies", "cookies", "garlic bread", "fajitas"]
-#what is a alaoop
-# loops repete the code inside them for specific amount of time
 
+#what is a a laoop
+# loops repete the code inside them for specific amount of time
+#What are the two types of loops?
+#breaks information in three different parts
+#iterator
+#one loop of the same code
+#1how many times loops has run
+#2.set stopping poimt
+#3.increase iteratorh
 #For loop 
+
 for food in foods:
     #print(f"{food} is my favorite food!")
     print("Hi!")
