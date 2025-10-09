@@ -1,4 +1,4 @@
-#RV 7th Frist Program C
+//RV 7th Frist Program C
 #include <stdio.h>
 
 int main(){
@@ -11,3 +11,4 @@ int main(){
 
     return 0;
 }
+
