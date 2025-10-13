@@ -3,10 +3,10 @@
 
 int main() {
     float income, rent, utilities, groceries, transport, savings, remaining;
-    printf("Enter monthly income: $"); scanf("%f", &income);
-    printf("Rent/Mortgage: $"); scanf("%f", &rent);
+    printf("What's your monthly income: $"); scanf("%f", &income);
+    printf("Rent: $"); scanf("%f", &rent);
     printf("Utilities: $"); scanf("%f", &utilities);
-    printf("Groceries: $"); scanf("%f", &groceries);
+    printf("Your groceries: $"); scanf("%f", &groceries);
     printf("Transportation: $"); scanf("%f", &transport);
 
     savings = income * 0.10;
