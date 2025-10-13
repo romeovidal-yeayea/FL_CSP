@@ -12,7 +12,7 @@ scanf("%d", &grade);
 printf("What is your name: ");
 scanf("%s", &name);
 
-printf("%d\n", strcmp(name, "King von") === 0);
+printf("%d\n", strcmp(name, "King von") == 0);
 if(name == "King von"){
     printf("You don't get a grade!\n");
 }else if(grade >= 90){
