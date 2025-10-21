@@ -19,6 +19,5 @@ int main (void){
      printf("it's still so early");
      
      else if(time <= 12){
-     printf("it's now evening
-         );
+     printf("it's now evening");
      }
